@@ -38,10 +38,10 @@ The Word Guessing Game is a fun and educational game designed to improve your vo
 To run the game, follow these steps:
 1. Ensure you have Python 3.x installed on your system.
 2. Copy the code provided in the game script.
-3. Save the script as `word_guessing_game.py`.
+3. Save the script as `Guess_Word.py`.
 4. Open a terminal or command prompt.
 5. Navigate to the directory where the script is saved.
-6. Run the script using the command: `python word_guessing_game.py`
+6. Run the script using the command: `python Guess_Word.py`
 
 ## Contribution
 If you would like to contribute to this project, please follow these steps:
